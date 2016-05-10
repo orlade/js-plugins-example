@@ -1,0 +1,16 @@
+{
+  "name": "multigreet",
+  "version": "0.0.1",
+  "description": "Example project using the js-plugins package",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/orlade/js-plugins-example.git"
+  },
+  "scripts": {
+    "installGlobals": "cd global/plugin-planets && npm install -g"
+  },
+  "bin": "host.js",
+  "dependencies": {
+    "js-plugins": "0.0.3"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "name": "js-plugins-example-people",
+  "version": "0.0.1",
+  "extensions": {
+    "multigreet:audience": {
+      "john": "./john",
+      "mary": "./mary"
+    }
+  }
+}

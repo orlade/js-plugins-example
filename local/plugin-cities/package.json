@@ -1,0 +1,9 @@
+{
+  "name": "js-plugins-example-cities",
+  "version": "0.0.1",
+  "extensions": {
+    "multigreet:audience": {
+      "melbourne": "./melbourne"
+    }
+  }
+}

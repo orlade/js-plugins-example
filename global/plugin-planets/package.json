@@ -1,0 +1,9 @@
+{
+  "name": "js-plugins-example-planets",
+  "version": "0.0.1",
+  "extensions": {
+    "multigreet:audience": {
+      "pluto": "./pluto"
+    }
+  }
+}
