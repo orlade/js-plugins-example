@@ -23,6 +23,6 @@ MultiGreet registers all of these audiences, and then on connecting processes th
 
 1. From the MultiGreet repository, run `npm install -g` to install globally.
 2. Run `multigreet` to see who is in the audience.
-3. Install the `plugin-planets` package globally by running `npm run installGlobal`.
+3. Install the `plugin-planets` package globally by running `npm run installGlobals`.
 4. Run `multigreet` again to see who is in the new audience.
 5. If you like, run `npm uninstall -g js-plugins-example-planets` and try again.
